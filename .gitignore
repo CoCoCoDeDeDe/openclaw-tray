@@ -1,0 +1,6 @@
+config.json
+tray-log.txt
+tray.pid
+*.tmp
+.DS_Store
+Thumbs.db
